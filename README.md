@@ -17,10 +17,11 @@ The folders are organized as follows
 
                 covid_vs_nor
                   |--train
-                      |--images
-                      |--masks
+                      |--covid
+                      |--normal
                   |--val
-                      |--images
-                      |--masks
+                      |--covid
+                      |--normal
                   |--test
-                      |--images
+                      |--covid
+                      |--normal
