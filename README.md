@@ -1,11 +1,13 @@
 # COVID-Prediction-Using-Chest-X-Ray
 
-This Notebook Demonstrate the Calssification of Covid and Normal Cases Using Chest X-ray (CXR) Images. 
-This notebook contains three major section:
+This Projects Demonstrate the Calssification of Covid and Normal Cases Using Chest X-ray (CXR) Images. 
+This projects expalin the following major concepts:
 
 1. Building and Train the VGG16 model
 2. Loading the saved model and converting it into JSON format
 3. Infererencing the program (future use)
+4. Build the feature prediction model uisng transfer learning
+5. Generating Class Activation Maps
 
 The data folder contains a dummy set of images. 
 
