@@ -27,3 +27,5 @@ The folders are organized as follows
                   |--test
                       |--covid
                       |--normal
+
+In case of failing to open the "train_mrcnn.ipynb" file here, go to: https://nbviewer.jupyter.org/ and paste https://github.com/Fashiar/COVID-Prediction-Using-Chest-X-Ray/blob/main/covid_vs_normal.ipynb to the viewer tab
